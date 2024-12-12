@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-taught Python developer with 2+ years of experience in Django and FastAPI, skilled in SQL, NoSQL, and full-stack development. Familiar with Docker, Git, and Linux. Proven ability to build scalable backend solutions. Seeking a challenging role to contribute to innovative projects.
+Self-taught Python developer with 2+ years of experience in Django and FastAPI, skilled in SQL, NoSQL, Familiar with Docker, Git, Linux etc.... Proven ability to build scalable backend solutions. Seeking a challenging role to contribute to innovative projects.
 
 # 💻 Tech Stack:
 ## Backend Technologies
